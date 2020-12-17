@@ -56,7 +56,7 @@ require (
 	gocloud.dev v0.20.0
 	gocloud.dev/secrets/hashivault v0.20.0
 	golang.org/x/crypto v0.0.0-20201203163018-be400aefbc4c
-	golang.org/x/net v0.0.0-20201202161906-c7110b5ffcbb
+	golang.org/x/net 986b41b23924
 	golang.org/x/oauth2 v0.0.0-20201203001011-0b49973bad19 // indirect
 	golang.org/x/sys v0.0.0-20201204225414-ed752295db88
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e // indirect
